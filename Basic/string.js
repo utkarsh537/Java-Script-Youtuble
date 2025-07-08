@@ -17,3 +17,13 @@ console.log(str1.slice(0,9))
 let str2 = "Pandey"
 let str3 = str1.concat(str2)
 console.log(str3)
+
+const gameName = "JavaScript"
+console.log(gameName.toUpperCase())
+console.log(gameName.toLowerCase())
+console.log(gameName.charAt(4))
+console.log(gameName.indexOf('S'))
+console.log(gameName.substring(5,8))
+console.log(gameName.slice(-5,2))
+console.log(gameName.trim("utkarsh"))
+
