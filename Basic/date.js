@@ -9,4 +9,5 @@ console.log(myCreatedDate.toDateString)
 
 let myTimeStamp = Date.now()
 console.log(myTimeStamp)
+console.log(Math.floor(Date.now()/1000))
 
